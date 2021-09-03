@@ -1,0 +1,7 @@
+{
+  "name": "textEditor",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "maxarvid <max.arvid.anderson@gmail.com>",
+  "license": "MIT"
+}
